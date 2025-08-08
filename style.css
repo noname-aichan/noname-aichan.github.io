@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.name{
+  text-align: right;
+}
+
+h2, h3{
+  border-bottom: 2px solid #00CCFF;
+}
+
+body{
+  background-color: #25405B;
+  color:  #C6D0F5;
+}
+
+a{
+  color: #C6D0F5;
+  text-decoration: none;
+}
